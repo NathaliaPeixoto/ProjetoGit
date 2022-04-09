@@ -1,0 +1,1 @@
+Olá, este projeto vai te ajudar a iniciar no git.
